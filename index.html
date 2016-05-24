@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="styles/styles.css" rel="stylesheet" type="text/css">
+    <meta charset="utf-8">
+    <meta content="" name="description">
+    <meta content="Maryna Zakharevich" name="author">
+    <title>Mobile.de Test Task</title>
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <!-- <script src="js/jquery.min.js"></script> -->
+</head>
+
+<body>
+    <h1>Please choose a vehicle type</h1>
+    <ul class="tabs">
+
+        <li class="tab" id="li1">
+            <input checked type="checkbox" class="getCarsData">
+            <!-- Accordion item 1, visible on small screens -->
+            <input id="tab1" name="tabs" type="radio">
+            <!-- Tab item 1, visible on wide screens -->
+            <label for="tab1" class="getCarsData">Cars</label> <span></span>
+            <!-- Arrow for accordion-->
+            <section class="tab-content" id="tab-content1">
+                <!-- Result list goes here -->
+                <div class="show-data"></div>
+            </section>
+        </li>
+
+        <li class="tab" id="li2">
+            <input checked type="checkbox" class="getMotorbikeData">
+            <!-- Accordion item 2, visible on small screens -->
+            <input id="tab2" name="tabs" type="radio">
+            <!-- Tab item 2, visible on wide screens -->
+            <label for="tab2" class="getMotorbikeData">Motorbikes</label> <span></span>
+            <!-- Arrow for accordion-->
+            <section class="tab-content" id="tab-content2">
+                <!-- Result list goes here -->
+                <div class="show-data"></div>
+            </section>
+        </li>
+
+        <li class="tab" id="li3">
+            <input checked type="checkbox" class="getMotorhomeData">
+            <!-- Accordion item 3, visible on small screens -->
+            <input id="tab3" name="tabs" type="radio">
+            <!-- Tab item 3, visible on wide screens -->
+            <label for="tab3" class="getMotorhomeData">Motorhome</label> <span></span>
+            <!-- Arrow for accordion-->
+            <section class="tab-content" id="tab-content3">
+                <!-- Result list goes here -->
+                <div class="show-data"></div>
+            </section>
+        </li>
+    </ul>
+
+    <script src="js/app.js" async></script>
+</body>
+
+</html>

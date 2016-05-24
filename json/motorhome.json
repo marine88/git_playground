@@ -1,0 +1,748 @@
+{
+    "numResultsTotal": 118013
+    , "items": [{
+        "id": 225398801
+        , "siteId": "GERMANY"
+        , "sellerId": 14701783
+        , "makeId": 1900
+        , "modelId": 9
+        , "title": "WV"
+        , "numImages": 0
+        , "p": "€25"
+        , "price": {
+            "grs": {
+                "amount": 15.00
+                , "currency": "EUR"
+                , "localized": "€15"
+            }
+            , "type": "NEGOTIABLE"
+        }
+        , "created": 1461340999
+        , "modified": 1461344442
+        , "renewed": 1461340999
+        , "details": ["DE-72116 Mössingen", "11/1998, 160,000 km", "110 kW (150 PS), Petrol", "≈ 7.9 l/100km (komb.),\n≈ 188 g CO₂/km (komb.)"]
+        , "attr": {
+            "cn": "DE"
+            , "z": "72116"
+            , "loc": "Mössingen"
+            , "fr": "11/1998"
+            , "pw": "110 kW (150 PS)"
+            , "ft": "Petrol"
+            , "ml": "160,000 km"
+            , "cc": "1,781 ccm"
+            , "csmpt": "≈ 7.9 l/100km (komb.)"
+            , "emiss": "≈ 188 g CO₂/km (komb.)"
+            , "tr": "Manual gearbox"
+            , "phone": "+49 (0)1520 4390559"
+            , "name": "Julian Stein"
+            , "ecol": "Silver"
+            , "door": "4/5"
+            , "sc": "5"
+        }
+        , "isNew": true
+        , "hasDamage": true
+        , "isDamageCase": true
+        , "readyToDrive": false
+        , "isVideoEnabled": false
+        , "isFinancingFeature": false
+        , "segment": "Car"
+        , "vc": "Car"
+        , "st": "Private Seller"
+        , "category": "Saloon"
+        , "url": "http://suchen.mobile.de/auto-inserat/audi-ersatzteilspender-a4-1-8-t-m%C3%B6ssingen/225398801.html"
+        , "isEyeCatcher": false
+        , "features": ["ABS", "Alloy wheels", "Central locking", "Daytime running lights", "Electric side mirror", "Electric windows", "Full Service History", "Immobilizer", "Power Assisted Steering", "Sports package", "Tuner/radio"]
+        , "contact": {
+            "type": "Private Seller"
+            , "country": "DE"
+            , "enumType": "FSBO"
+            , "name": "Julian Stein"
+            , "latLong": {
+                "lon": 9.05569
+                , "lat": 48.40753
+            }
+        }
+    }, {
+        "id": 224218158
+        , "siteId": "GERMANY"
+        , "sellerId": 12560749
+        , "makeId": 1900
+        , "modelId": 23
+        , "title": "Volkswagen"
+        , "images": [{
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/wXkAAOSwxp9W~NiZ/$"
+            , "set": "fe4cfedffdffffffff"
+        }]
+        , "numImages": 0
+        , "p": "€50"
+        , "price": {
+            "grs": {
+                "amount": 50.00
+                , "currency": "EUR"
+                , "localized": "€50"
+            }
+            , "type": "FIXED"
+        }
+        , "created": 1459411556
+        , "modified": 1459775529
+        , "renewed": 1459411556
+        , "details": ["DE-57610 Altenkirchen", "03/1999, 140,000 km", "132 kW (179 PS), Petrol", "≈ 8.1 l/100km (komb.),\n≈ 194 g CO₂/km (komb.)"]
+        , "attr": {
+            "cn": "DE"
+            , "z": "57610"
+            , "loc": "Altenkirchen"
+            , "fr": "03/1999"
+            , "pw": "132 kW (179 PS)"
+            , "ft": "Petrol"
+            , "ml": "140,000 km"
+            , "cc": "1,781 ccm"
+            , "csmpt": "≈ 8.1 l/100km (komb.)"
+            , "emiss": "≈ 194 g CO₂/km (komb.)"
+            , "tr": "Manual gearbox"
+            , "phone": "+49 (0)170 5595798"
+            , "door": "2/3"
+            , "sc": "4"
+        }
+        , "hasDamage": true
+        , "isVideoEnabled": false
+        , "isFinancingFeature": false
+        , "segment": "Car"
+        , "vc": "Car"
+        , "st": "Private Seller"
+        , "category": "Sports Car / Coupe"
+        , "url": "http://suchen.mobile.de/auto-inserat/audi-tt-coupe-1-8-t-altenkirchen/224218158.html"
+        , "isEyeCatcher": false
+        , "features": ["ABS", "Alloy wheels", "CD player", "Central locking", "Cruise control", "Electric heated seats", "Electric side mirror", "Electric windows", "ESP", "Fog lamp", "Immobilizer", "Light sensor", "Non-smoker vehicle", "On-board computer", "Power Assisted Steering", "Sport seats", "Sports package", "Sports suspension", "Traction control", "Tuner/radio", "Xenon headlights"]
+        , "contact": {
+            "type": "Private Seller"
+            , "country": "DE"
+            , "enumType": "FSBO"
+            , "latLong": {
+                "lon": 7.664015
+                , "lat": 50.6855816666667
+            }
+        }
+    }, {
+        "id": 224014329
+        , "siteId": "GERMANY"
+        , "sellerId": 8699381
+        , "makeId": 1900
+        , "modelId": 5
+        , "title": "Volkswagen comfort"
+        , "images": [{
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/KdAAAOSwsN9W~3vs/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/OgsAAOSwnTJW~3vJ/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/k~kAAOSwQgpW~3vd/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/z3cAAOSw9KpW~3wB/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/u8QAAOSw6wRW~3wS/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/mGMAAOSwQgpW~3wh/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/IIQAAOSwEK9W~3wx/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/mrIAAOSwQgpW~3xD/$"
+            , "set": "fe4cfedffdffffffff"
+        }]
+        , "numImages": 0
+        , "p": "€90"
+        , "price": {
+            "grs": {
+                "amount": 90.00
+                , "currency": "EUR"
+                , "localized": "€90"
+            }
+            , "type": "NEGOTIABLE"
+        }
+        , "created": 1458964809
+        , "modified": 1461554046
+        , "renewed": 1458964809
+        , "details": ["DE-94065 Waldkirchen", "08/1994, 210,000 km", "66 kW (90 PS), Petrol"]
+        , "attr": {
+            "cn": "DE"
+            , "z": "94065"
+            , "loc": "Waldkirchen"
+            , "fr": "08/1994"
+            , "pw": "66 kW (90 PS)"
+            , "ft": "Petrol"
+            , "ml": "210,000 km"
+            , "cc": "1,984 ccm"
+            , "tr": "Manual gearbox"
+            , "gi": "07/2016"
+            , "phone": "+49 178 9884483"
+            , "name": "Maximilian Klein"
+            , "ecol": "Green"
+            , "door": "4/5"
+            , "sc": "5"
+        }
+        , "hasDamage": false
+        , "isDamageCase": false
+        , "readyToDrive": true
+        , "isVideoEnabled": false
+        , "isFinancingFeature": false
+        , "segment": "Car"
+        , "vc": "Car"
+        , "st": "Private Seller"
+        , "category": "Saloon"
+        , "url": "http://suchen.mobile.de/auto-inserat/audi-80-comfort-waldkirchen/224014329.html"
+        , "isEyeCatcher": false
+        , "features": ["ABS", "Central locking", "Power Assisted Steering", "Trailer coupling"]
+        , "contact": {
+            "type": "Private Seller"
+            , "country": "DE"
+            , "enumType": "FSBO"
+            , "name": "Maximilian Klein"
+            , "latLong": {
+                "lon": 13.60553
+                , "lat": 48.72936
+            }
+        }
+    }, {
+        "id": 223600965
+        , "siteId": "GERMANY"
+        , "sellerId": 9747794
+        , "makeId": 1900
+        , "modelId": 5
+        , "title": "Audi"
+        , "images": [{
+            "uri": "i.ebayimg.com/00/s/MTAyNFg1NzY=/z/MesAAOSwZ8ZW6wGP/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTAyNFg1NzY=/z/MocAAOSwv9hW6wGR/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTAyNFg1NzY=/z/MoUAAOSwZ8ZW6wGU/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTAyNFg1NzY=/z/xJwAAOSwJdlW6wGY/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTAyNFg1NzY=/z/48MAAOSwr7ZW6wGc/$"
+            , "set": "fe4cfedffdffffffff"
+        }]
+        , "numImages": 0
+        , "p": "€201"
+        , "price": {
+            "grs": {
+                "amount": 101.00
+                , "currency": "EUR"
+                , "localized": "€101"
+            }
+            , "type": "NEGOTIABLE"
+        }
+        , "created": 1458241931
+        , "modified": 1461452807
+        , "renewed": 1458241931
+        , "details": ["DE-96260 Weismain", "03/1991, 192,000 km", "66 kW (90 PS), Petrol"]
+        , "attr": {
+            "cn": "DE"
+            , "z": "96260"
+            , "loc": "Weismain"
+            , "fr": "03/1991"
+            , "pw": "66 kW (90 PS)"
+            , "ft": "Petrol"
+            , "ml": "192,000 km"
+            , "tr": "Manual gearbox"
+            , "phone": "+49 (0)151 20949900"
+            , "ecol": "Red"
+            , "door": "4/5"
+            , "sc": "5"
+        }
+        , "hasDamage": true
+        , "isDamageCase": true
+        , "readyToDrive": false
+        , "isVideoEnabled": false
+        , "isFinancingFeature": false
+        , "segment": "Car"
+        , "vc": "Car"
+        , "st": "Private Seller"
+        , "category": "Saloon"
+        , "url": "http://suchen.mobile.de/auto-inserat/audi-80-weismain/223600965.html"
+        , "isEyeCatcher": false
+        , "features": ["CD player", "Power Assisted Steering"]
+        , "contact": {
+            "type": "Private Seller"
+            , "country": "DE"
+            , "enumType": "FSBO"
+            , "latLong": {
+                "lon": 11.24611
+                , "lat": 50.08494
+            }
+        }
+    }, {
+        "id": 225476954
+        , "siteId": "GERMANY"
+        , "sellerId": 7493968
+        , "makeId": 1900
+        , "modelId": 5
+        , "title": "Volkswagen "
+        , "images": [{
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/8dsAAOSw2GlXHMpW/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/Ey8AAOSw1DtXHMtr/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/R8wAAOSwubRXHMuE/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/CigAAOSw~oFXHMua/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/FxAAAOSwQSBXHMuz/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/lKEAAOSwampXHMvK/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/G4wAAOSwQSBXHMve/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/QUQAAOSw4T5XHMv4/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/GAgAAOSwiYFXHMwQ/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/H~MAAOSws8ZXHMwn/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/0JEAAOSwVllXHMxC/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/HuwAAOSw~oFXHMxt/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/MWgAAOSwQSBXHMyJ/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/KBwAAOSw~oFXHMzC/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/4swAAOSwVllXHMze/$"
+            , "set": "fe4cfedffdffffffff"
+        }]
+        , "numImages":0
+        , "p": "€111"
+        , "price": {
+            "grs": {
+                "amount": 111.00
+                , "currency": "EUR"
+                , "localized": "€111"
+            }
+            , "type": "NEGOTIABLE"
+        }
+        , "created": 1461508868
+        , "modified": 1461508870
+        , "renewed": 1461508868
+        , "details": ["DE-84367 Tann", "03/1993, 254,000 km", "110 kW (150 PS), Petrol"]
+        , "attr": {
+            "cn": "DE"
+            , "z": "84367"
+            , "loc": "Tann"
+            , "fr": "03/1993"
+            , "pw": "110 kW (150 PS)"
+            , "ft": "Petrol"
+            , "ml": "254,000 km"
+            , "cc": "2,598 ccm"
+            , "tr": "Manual gearbox"
+            , "phone": "+49 (0)160 4346679"
+            , "door": "4/5"
+            , "sc": "5"
+        }
+        , "isNew": true
+        , "hasDamage": false
+        , "isDamageCase": false
+        , "readyToDrive": true
+        , "isVideoEnabled": false
+        , "isFinancingFeature": false
+        , "segment": "Car"
+        , "vc": "Car"
+        , "st": "Private Seller"
+        , "category": "Estate Car"
+        , "url": "http://suchen.mobile.de/auto-inserat/audi-80-avant-2-6-e-tann/225476954.html"
+        , "isEyeCatcher": false
+        , "features": ["ABS", "Central locking", "Electric side mirror", "Fog lamp", "Power Assisted Steering", "Sports suspension", "Sunroof"]
+        , "contact": {
+            "type": "Private Seller"
+            , "country": "DE"
+            , "enumType": "FSBO"
+            , "latLong": {
+                "lon": 12.8960833333333
+                , "lat": 48.3103333333333
+            }
+        }
+    }, {
+        "id": 225233066
+        , "siteId": "GERMANY"
+        , "sellerId": 5373796
+        , "makeId": 1900
+        , "modelId": 5
+        , "title": "Audi 80"
+        , "images": [{
+            "uri": "i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/Ec8AAOSwd3dXFn5N/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/Er0AAOSwd3dXFn5U/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/vB8AAOSwAoRXFn5a/$"
+            , "set": "fe4cfedffdffffffff"
+        }]
+        , "numImages": 0
+        , "p": "€130"
+        , "price": {
+            "grs": {
+                "amount": 130.00
+                , "currency": "EUR"
+                , "localized": "€130"
+            }
+            , "type": "FIXED"
+        }
+        , "created": 1461092187
+        , "modified": 1461431378
+        , "renewed": 1461092187
+        , "details": ["DE-32312 Lübbecke", "03/1991, 234,272 km", "51 kW (69 PS), Petrol"]
+        , "attr": {
+            "cn": "DE"
+            , "z": "32312"
+            , "loc": "Lübbecke"
+            , "fr": "03/1991"
+            , "pw": "51 kW (69 PS)"
+            , "ft": "Petrol"
+            , "ml": "234,272 km"
+            , "tr": "Manual gearbox"
+            , "phone": "+49 (0)151 15579279"
+            , "door": "4/5"
+            , "sc": "5"
+        }
+        , "hasDamage": true
+        , "isVideoEnabled": false
+        , "isFinancingFeature": false
+        , "segment": "Car"
+        , "vc": "Car"
+        , "st": "Private Seller"
+        , "category": "Saloon"
+        , "url": "http://suchen.mobile.de/auto-inserat/audi-80-l%C3%BCbbecke/225233066.html"
+        , "isEyeCatcher": false
+        , "features": ["Trailer coupling"]
+        , "contact": {
+            "type": "Private Seller"
+            , "country": "DE"
+            , "enumType": "FSBO"
+            , "latLong": {
+                "lon": 8.62192
+                , "lat": 52.30625
+            }
+        }
+    }, {
+        "id": 225376366
+        , "siteId": "GERMANY"
+        , "sellerId": 474375
+        , "makeId": 1900
+        , "modelId": 8
+        , "title": "Volkswagen"
+        , "images": [{
+            "uri": "i.ebayimg.com/00/s/NjAwWDgwMA==/z/ESsAAOSwlfxXGdQk/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/NjAwWDgwMA==/z/49sAAOSwJSJXGdQv/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/NjAwWDgwMA==/z/lKcAAOSwKfVXGdQ7/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/NjAwWDgwMA==/z/IzwAAOSw~oFXGdRG/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/NjAwWDgwMA==/z/UY4AAOSwiYFXGdRQ/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/NjAwWDgwMA==/z/pKQAAOSw3mpXGdRY/$"
+            , "set": "fe4cfedffdffffffff"
+        }]
+        , "numImages": 0
+        , "p": "€150"
+        , "price": {
+            "grs": {
+                "amount": 150.00
+                , "currency": "EUR"
+                , "localized": "€150"
+            }
+            , "type": "FIXED"
+        }
+        , "created": 1461319614
+        , "modified": 1461319615
+        , "renewed": 1461319614
+        , "details": ["DE-94505 Bernried", "04/1998, 200,000 km", "74 kW (101 PS), Petrol", "≈ 7.4 l/100km (komb.),\n≈ 178 g CO₂/km (komb.)"]
+        , "attr": {
+            "cn": "DE"
+            , "z": "94505"
+            , "loc": "Bernried"
+            , "fr": "04/1998"
+            , "pw": "74 kW (101 PS)"
+            , "ft": "Petrol"
+            , "ml": "200,000 km"
+            , "cc": "1,595 ccm"
+            , "csmpt": "≈ 7.4 l/100km (komb.)"
+            , "emiss": "≈ 178 g CO₂/km (komb.)"
+            , "tr": "Manual gearbox"
+            , "phone": "+49 (0)9905 7071780"
+            , "logo": "i.ebayimg.com/00/$(KGrHqJ,!p8E63Zwg4W(BP!bWVunF!~~"
+            , "name": "Autohaus Biller GmbH & Co. KG"
+            , "ecol": "Green"
+            , "door": "2/3"
+            , "sc": "5"
+        }
+        , "isNew": true
+        , "hasDamage": true
+        , "isVideoEnabled": false
+        , "isFinancingFeature": false
+        , "segment": "Car"
+        , "vc": "Car"
+        , "st": "Dealer"
+        , "category": "Saloon"
+        , "url": "http://suchen.mobile.de/auto-inserat/audi-a3-1-6-baslterfahrzeug-bernried/225376366.html"
+        , "isEyeCatcher": false
+        , "features": ["ABS", "Alloy wheels", "Central locking", "Electric windows", "Immobilizer", "Power Assisted Steering"]
+        , "contact": {
+            "type": "Dealer"
+            , "country": "DE"
+            , "enumType": "DEALER"
+            , "name": "Autohaus Biller GmbH & Co. KG"
+            , "latLong": {
+                "lon": 12.8829
+                , "lat": 48.91593
+            }
+            , "rating": {
+                "count": 1
+                , "score": 5.0
+                , "scoreLocalized": "5.0"
+                , "link": "https://haendler.mobile.de/bewertungen/AH-BILLER?lang=en"
+            }
+            , "logo": "i.ebayimg.com/00/$(KGrHqJ,!p8E63Zwg4W(BP!bWVunF!~~"
+        }
+    }, {
+        "id": 225045947
+        , "siteId": "GERMANY"
+        , "sellerId": 13191246
+        , "makeId": 1900
+        , "modelId": 8
+        , "title": "Volkswagen"
+        , "images": [{
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/MTsAAOSw7KJXESXZ/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/KWUAAOSw7KJXESWn/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/j~4AAOSwYmZXESYG/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/wJ8AAOSw3mpXESYu/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/5OkAAOSwhDdXESZS/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/SNcAAOSw7KJXESZ0/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/OSMAAOSwiYFXESaY/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTAwWDE2MDA=/z/9cIAAOSwhDdXESbB/$"
+            , "set": "fe4cfedffdffffffff"
+        }]
+        , "numImages": 0
+        , "p": "€150"
+        , "price": {
+            "grs": {
+                "amount": 150.00
+                , "currency": "EUR"
+                , "localized": "€150"
+            }
+            , "type": "FIXED"
+        }
+        , "created": 1460742076
+        , "modified": 1460742078
+        , "renewed": 1460742076
+        , "details": ["DE-06369 Dohndorf", "03/1998, 195,000 km", "92 kW (125 PS), Petrol"]
+        , "attr": {
+            "cn": "DE"
+            , "z": "06369"
+            , "loc": "Dohndorf"
+            , "fr": "03/1998"
+            , "pw": "92 kW (125 PS)"
+            , "ft": "Petrol"
+            , "ml": "195,000 km"
+            , "cc": "1,786 ccm"
+            , "tr": "Manual gearbox"
+            , "gi": "01/2017"
+            , "phone": "+49 (0)34976 18453"
+            , "name": "Philipp Meyer"
+            , "ecol": "Black"
+            , "door": "2/3"
+            , "sc": "5"
+        }
+        , "hasDamage": true
+        , "isDamageCase": true
+        , "readyToDrive": false
+        , "isVideoEnabled": false
+        , "isFinancingFeature": false
+        , "segment": "Car"
+        , "vc": "Car"
+        , "st": "Private Seller"
+        , "category": "Saloon"
+        , "url": "http://suchen.mobile.de/auto-inserat/audi-a3-1-8-dohndorf/225045947.html"
+        , "isEyeCatcher": false
+        , "features": []
+        , "contact": {
+            "type": "Private Seller"
+            , "country": "DE"
+            , "enumType": "FSBO"
+            , "name": "Philipp Meyer"
+            , "latLong": {
+                "lon": 12.0015852380952
+                , "lat": 51.7324957142857
+            }
+        }
+    }, {
+        "id": 225038910
+        , "siteId": "GERMANY"
+        , "sellerId": 14664005
+        , "makeId": 1900
+        , "modelId": 5
+        , "title": "Audi 80 2.0 E "
+        , "numImages": 0
+        , "p": "€150"
+        , "price": {
+            "grs": {
+                "amount": 150.00
+                , "currency": "EUR"
+                , "localized": "€150"
+            }
+            , "type": "FIXED"
+        }
+        , "created": 1460734904
+        , "modified": 1461348780
+        , "renewed": 1460734904
+        , "details": ["DE-94333 Geiselhöring", "12/1992, 203,391 km", "85 kW (116 PS), Petrol"]
+        , "attr": {
+            "cn": "DE"
+            , "z": "94333"
+            , "loc": "Geiselhöring"
+            , "fr": "12/1992"
+            , "pw": "85 kW (116 PS)"
+            , "ft": "Petrol"
+            , "ml": "203,391 km"
+            , "cc": "1,984 ccm"
+            , "tr": "Manual gearbox"
+            , "gi": "02/2010"
+            , "ecol": "Black"
+            , "door": "4/5"
+            , "sc": "5"
+        }
+        , "hasDamage": true
+        , "readyToDrive": false
+        , "isVideoEnabled": false
+        , "isFinancingFeature": false
+        , "segment": "Car"
+        , "vc": "Car"
+        , "st": "Private Seller"
+        , "category": "Saloon"
+        , "url": "http://suchen.mobile.de/auto-inserat/audi-80-2-0-e-geiselh%C3%B6ring/225038910.html"
+        , "isEyeCatcher": false
+        , "features": ["ABS", "Alloy wheels", "Electric windows", "Power Assisted Steering", "Sunroof"]
+        , "contact": {
+            "type": "Private Seller"
+            , "country": "DE"
+            , "enumType": "FSBO"
+            , "latLong": {
+                "lon": 12.39467
+                , "lat": 48.82581
+            }
+        }
+    },  {
+        "id": 223401091
+        , "siteId": "GERMANY"
+        , "sellerId": 5978474
+        , "makeId": 1900
+        , "modelId": 5
+        , "title": "Audi 80 B4 TDI - 2. Hand"
+        , "images": [{
+            "uri": "i.ebayimg.com/00/s/OTYwWDEyODA=/z/NyUAAOSwwpdW5nnb/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTYwWDEyODA=/z/4IUAAOSwyjBW5nnl/$"
+            , "set": "fe4cfedffdffffffff"
+        }, {
+            "uri": "i.ebayimg.com/00/s/OTYwWDEyODA=/z/4XgAAOSwyjBW5nnw/$"
+            , "set": "fe4cfedffdffffffff"
+        }]
+        , "numImages": 0
+        , "p": "€200"
+        , "price": {
+            "grs": {
+                "amount": 200.00
+                , "currency": "EUR"
+                , "localized": "€200"
+            }
+            , "type": "FIXED"
+        }
+        , "created": 1457945006
+        , "modified": 1460922002
+        , "renewed": 1457945006
+        , "details": ["DE-84056 Rottenburg", "10/1993, 297,658 km", "66 kW (90 PS), Diesel"]
+        , "attr": {
+            "cn": "DE"
+            , "z": "84056"
+            , "loc": "Rottenburg"
+            , "fr": "10/1993"
+            , "pw": "66 kW (90 PS)"
+            , "ft": "Diesel"
+            , "ml": "297,658 km"
+            , "cc": "1,896 ccm"
+            , "tr": "Manual gearbox"
+            , "gi": "10/2015"
+            , "phone": "+49 (0)171 7555088"
+            , "name": "Gebrauchtwagen Franzesko"
+            , "ecol": "Black"
+            , "door": "4/5"
+            , "sc": "5"
+        }
+        , "hasDamage": true
+        , "isVideoEnabled": false
+        , "isFinancingFeature": false
+        , "segment": "Car"
+        , "vc": "Car"
+        , "st": "Dealer"
+        , "category": "Saloon"
+        , "url": "http://suchen.mobile.de/auto-inserat/audi-80-b4-tdi-2-hand-rottenburg/223401091.html"
+        , "isEyeCatcher": false
+        , "features": ["ABS", "Central locking", "Power Assisted Steering", "Sunroof", "Tuner/radio"]
+        , "contact": {
+            "type": "Dealer"
+            , "country": "DE"
+            , "enumType": "DEALER"
+            , "name": "Gebrauchtwagen Franzesko"
+            , "latLong": {
+                "lon": 12.0291108
+                , "lat": 48.6946931
+            }
+        }
+    }]
+    , "topInCategory": []
+    , "meta": {}
+    , "aggregations": {}
+}

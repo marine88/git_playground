@@ -1,0 +1,373 @@
+/* Reset CSS */
+
+html,
+body,
+body div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+figure,
+footer,
+header,
+menu,
+nav,
+section,
+time,
+mark,
+audio,
+video,
+details,
+summary {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-weight: 400;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+article,
+aside,
+figure,
+footer,
+header,
+nav,
+section,
+details,
+summary,
+label {
+    display: block;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+
+/* // Reset CSS */
+
+
+/* General styles */
+
+html {
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    font-family: "Open Sans", sans-serif;
+    color: #5b5b5b;
+}
+
+body {
+    position: relative;
+    left: 50%;
+    min-height: 100%;
+    transform: translate(-50%, 0);
+    background-color: #f2f2f2;
+    padding: 1.875em;
+}
+
+nav {
+    margin-top: 2em;
+    margin-left: 2em;
+    position: fixed;
+    top: -1em;
+    z-index: 9999;
+    font-size: 0.8em;
+}
+
+label {
+    color: #fff;
+    background: #f60;
+    font-size: 1.2em;
+    line-height: 2em;
+    font-weight: 100;
+    cursor: pointer;
+    padding-left: 1.3em;
+}
+
+h1,
+h2 {
+    color: #5b5b5b;
+    display: block;
+    font-weight: 600;
+    line-height: 1.2em;
+    margin: 0;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.3em;
+}
+
+section {
+    overflow: hidden;
+    position: relative;
+    opacity: 1;
+    transform: translate(0, 0);
+    margin-top: .875em;
+    z-index: 2;
+    padding: 0 2em;
+}
+
+p {
+    color: #5b5b5b;
+    font-size: 1em;
+    line-height: 1.625em;
+    margin-bottom: 1.2em;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 1em 0 0;
+}
+
+ul li {
+    position: relative;
+    padding: 0 0 .05em;
+    margin: 0em;
+}
+
+a:link,
+a:visited {
+    color: #666;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+.show-data ul li {
+    border-bottom: 1px solid #ccc;
+    padding: 1.6em 0;
+}
+
+.show-data img {
+    max-width: 100%;
+    height: auto;
+}
+
+b {
+    color: #f60;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 0.4em 0;
+    display: block;
+}
+
+
+/* ___________________Mobile first: accordion view___________________ */
+
+
+/* For small screens, <768px width. Based on <input type="checkbox"> structure */
+
+
+/* Switch from [radio] structure to the [checkbox], deactivate <input type="radio"> */
+
+ul li input[type="radio"] {
+    visibility: hidden;
+}
+
+
+/* Switch from [radio] structure to the [checkbox], activate <input type="checkbox"> */
+
+ul li input[type="checkbox"] {
+    position: absolute;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+}
+
+ul li input[type="checkbox"]:checked ~ section {
+    margin-top: 0;
+    max-height: 0;
+    opacity: 0;
+    transform: translate(0, 50%);
+}
+
+
+/* Arrows for accordion */
+
+ul li span {
+    position: absolute;
+    margin-top: -1.5em;
+    right: 1.6em;
+}
+
+ul li span:before,
+ul li span:after {
+    content: "";
+    position: absolute;
+    background-color: #fff;
+    width: .188em;
+    height: .563em;
+}
+
+ul li input[type="checkbox"]:checked ~ span:before {
+    transform: translate(0.125em, 0) rotate(45deg);
+}
+
+ul li input[type="checkbox"]:checked ~ span:after {
+    transform: translate(-0.125em, 0) rotate(-45deg);
+}
+
+ul li span:before {
+    transform: translate(-0.125em, 0) rotate(45deg);
+}
+
+ul li span:after {
+    transform: translate(0.125em, 0) rotate(-45deg);
+}
+
+
+/* Show the accordion content with animation effect */
+
+section,
+p,
+ul li span:before,
+ul li span:after {
+    transition: all .25s ease-in-out;
+}
+
+.show-data {
+    font-size: 80%;
+}
+
+
+/* ___________________ Horizontal view___________________ */
+
+
+/* Breakpoint, wide screens >768px width*/
+
+@media (min-width: 768px) and (orientation: landscape) {
+    .tabs {
+        width: 100%;
+        float: none;
+        list-style: none;
+        position: relative;
+        margin: 0;
+        top: 1em;
+    }
+    .tabs li.tab {
+        float: left;
+        display: block;
+        position: static;
+    }
+    /* Switch from [checkbox] structure to the [radio], deactivate <input type="checkbox"> */
+    .tabs li.tab span,
+    .tabs li.tab input[type="checkbox"] {
+        visibility: hidden !important;
+    }
+    ul li input[type="checkbox"]:checked ~ section {
+        margin-top: inherit;
+        max-height: inherit;
+        opacity: 1;
+        transform: none;
+    }
+    /* Switch from [checkbox] structure to the [radio], activate <input type="radio"> */
+    .tabs li.tab input[type="radio"] {
+        display: block;
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+    .tabs label {
+        display: block;
+        margin: 0 .05em 0 0;
+        cursor: pointer;
+        position: relative;
+        background: #f60;
+        line-height: 2em;
+        font-weight: 100;
+        padding: 0 1.5em 0 1.3em;
+    }
+    .tabs label:hover {
+        background: #e87b32;
+    }
+    .tabs li.tab input[type="radio"] ~ section {
+        z-index: 2;
+        display: none;
+        overflow: hidden;
+        width: 100%;
+        padding: 0 2em;
+        position: absolute;
+        left: 0;
+    }
+    .tabs [id^="tab"]:checked + label {
+        background: #eee;
+        color: #f60;
+    }
+    .tabs li.tab input[type="radio"][id^="tab"]:checked ~ [id^="tab-content"] {
+        display: block;
+        margin: .9em 0;
+        background: #eee;
+    }
+    .show-data {
+        font-size: 100%;
+    }
+}
